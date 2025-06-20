@@ -1,0 +1,11 @@
+[versions]
+kotlin = "2.1.10"
+koog-agents = "0.2.1-feat-275-1"
+grazie-client = "1.0.0-beta.68+0.4.71"
+
+[libraries]
+koog-agents = { module = "ai.koog:koog-agents", version.ref = "koog-agents"}
+grazie-client = { module = "ai.jetbrains.code.prompt:code-prompt-executor-grazie-koog-jvm", version.ref = "grazie-client" }
+
+[plugins]
+kotlin-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }

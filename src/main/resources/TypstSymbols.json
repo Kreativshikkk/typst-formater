@@ -1,0 +1,3910 @@
+[
+    {
+        "symbol": "AA",
+        "name": "Mathematical Double Struck Capital A"
+    },
+    {
+        "symbol": "Alpha",
+        "name": "Greek Capital Letter Alpha"
+    },
+    {
+        "symbol": "BB",
+        "name": "Mathematical Double Struck Capital B"
+    },
+    {
+        "symbol": "Beta",
+        "name": "Greek Capital Letter Beta"
+    },
+    {
+        "symbol": "CC",
+        "name": "Double Struck Capital C"
+    },
+    {
+        "symbol": "Chi",
+        "name": "Greek Capital Letter Chi"
+    },
+    {
+        "symbol": "DD",
+        "name": "Mathematical Double Struck Capital D"
+    },
+    {
+        "symbol": "Delta",
+        "name": "Greek Capital Letter Delta"
+    },
+    {
+        "symbol": "EE",
+        "name": "Mathematical Double Struck Capital E"
+    },
+    {
+        "symbol": "Epsilon",
+        "name": "Greek Capital Letter Epsilon"
+    },
+    {
+        "symbol": "Eta",
+        "name": "Greek Capital Letter Eta"
+    },
+    {
+        "symbol": "FF",
+        "name": "Mathematical Double Struck Capital F"
+    },
+    {
+        "symbol": "GG",
+        "name": "Mathematical Double Struck Capital G"
+    },
+    {
+        "symbol": "Gamma",
+        "name": "Greek Capital Letter Gamma"
+    },
+    {
+        "symbol": "HH",
+        "name": "Double Struck Capital H"
+    },
+    {
+        "symbol": "II",
+        "name": "Mathematical Double Struck Capital I"
+    },
+    {
+        "symbol": "Im",
+        "name": "Black Letter Capital I"
+    },
+    {
+        "symbol": "Iota",
+        "name": "Greek Capital Letter Iota"
+    },
+    {
+        "symbol": "JJ",
+        "name": "Mathematical Double Struck Capital J"
+    },
+    {
+        "symbol": "KK",
+        "name": "Mathematical Double Struck Capital K"
+    },
+    {
+        "symbol": "Kai",
+        "name": "Greek Capital Kai Symbol"
+    },
+    {
+        "symbol": "Kappa",
+        "name": "Greek Capital Letter Kappa"
+    },
+    {
+        "symbol": "LL",
+        "name": "Mathematical Double Struck Capital L"
+    },
+    {
+        "symbol": "Lambda",
+        "name": "Greek Capital Letter Lamda"
+    },
+    {
+        "symbol": "MM",
+        "name": "Mathematical Double Struck Capital M"
+    },
+    {
+        "symbol": "Mu",
+        "name": "Greek Capital Letter Mu"
+    },
+    {
+        "symbol": "NN",
+        "name": "Double Struck Capital N"
+    },
+    {
+        "symbol": "Nu",
+        "name": "Greek Capital Letter Nu"
+    },
+    {
+        "symbol": "OO",
+        "name": "Mathematical Double Struck Capital O"
+    },
+    {
+        "symbol": "Omega",
+        "name": "Greek Capital Letter Omega"
+    },
+    {
+        "symbol": "Omega.inv",
+        "name": "Inverted Ohm Sign"
+    },
+    {
+        "symbol": "Omicron",
+        "name": "Greek Capital Letter Omicron"
+    },
+    {
+        "symbol": "PP",
+        "name": "Double Struck Capital P"
+    },
+    {
+        "symbol": "Phi",
+        "name": "Greek Capital Letter Phi"
+    },
+    {
+        "symbol": "Pi",
+        "name": "Greek Capital Letter Pi"
+    },
+    {
+        "symbol": "Psi",
+        "name": "Greek Capital Letter Psi"
+    },
+    {
+        "symbol": "QQ",
+        "name": "Double Struck Capital Q"
+    },
+    {
+        "symbol": "RR",
+        "name": "Double Struck Capital R"
+    },
+    {
+        "symbol": "Re",
+        "name": "Black Letter Capital R"
+    },
+    {
+        "symbol": "Rho",
+        "name": "Greek Capital Letter Rho"
+    },
+    {
+        "symbol": "SS",
+        "name": "Mathematical Double Struck Capital S"
+    },
+    {
+        "symbol": "Sigma",
+        "name": "Greek Capital Letter Sigma"
+    },
+    {
+        "symbol": "TT",
+        "name": "Mathematical Double Struck Capital T"
+    },
+    {
+        "symbol": "Tau",
+        "name": "Greek Capital Letter Tau"
+    },
+    {
+        "symbol": "Theta",
+        "name": "Greek Capital Letter Theta"
+    },
+    {
+        "symbol": "UU",
+        "name": "Mathematical Double Struck Capital U"
+    },
+    {
+        "symbol": "Upsilon",
+        "name": "Greek Capital Letter Upsilon"
+    },
+    {
+        "symbol": "VV",
+        "name": "Mathematical Double Struck Capital V"
+    },
+    {
+        "symbol": "WW",
+        "name": "Mathematical Double Struck Capital W"
+    },
+    {
+        "symbol": "XX",
+        "name": "Mathematical Double Struck Capital X"
+    },
+    {
+        "symbol": "Xi",
+        "name": "Greek Capital Letter Xi"
+    },
+    {
+        "symbol": "YY",
+        "name": "Mathematical Double Struck Capital Y"
+    },
+    {
+        "symbol": "ZZ",
+        "name": "Double Struck Capital Z"
+    },
+    {
+        "symbol": "Zeta",
+        "name": "Greek Capital Letter Zeta"
+    },
+    {
+        "symbol": "acute",
+        "name": "Acute Accent"
+    },
+    {
+        "symbol": "acute.double",
+        "name": "Double Acute Accent"
+    },
+    {
+        "symbol": "alef",
+        "name": "Hebrew Letter Alef"
+    },
+    {
+        "symbol": "aleph",
+        "name": "Hebrew Letter Alef"
+    },
+    {
+        "symbol": "alpha",
+        "name": "Greek Small Letter Alpha"
+    },
+    {
+        "symbol": "amp",
+        "name": "Ampersand"
+    },
+    {
+        "symbol": "amp.inv",
+        "name": "Turned Ampersand"
+    },
+    {
+        "symbol": "and",
+        "name": "Logical And"
+    },
+    {
+        "symbol": "and.big",
+        "name": "N Ary Logical And"
+    },
+    {
+        "symbol": "and.curly",
+        "name": "Curly Logical And"
+    },
+    {
+        "symbol": "and.dot",
+        "name": "And With Dot"
+    },
+    {
+        "symbol": "and.double",
+        "name": "Double Logical And"
+    },
+    {
+        "symbol": "angle",
+        "name": "Angle"
+    },
+    {
+        "symbol": "angle.l",
+        "name": "Mathematical Left Angle Bracket"
+    },
+    {
+        "symbol": "angle.l.curly",
+        "name": "Left Pointing Curved Angle Bracket"
+    },
+    {
+        "symbol": "angle.l.dot",
+        "name": "Left Angle Bracket With Dot"
+    },
+    {
+        "symbol": "angle.l.double",
+        "name": "Mathematical Left Double Angle Bracket"
+    },
+    {
+        "symbol": "angle.r",
+        "name": "Mathematical Right Angle Bracket"
+    },
+    {
+        "symbol": "angle.r.curly",
+        "name": "Right Pointing Curved Angle Bracket"
+    },
+    {
+        "symbol": "angle.r.dot",
+        "name": "Right Angle Bracket With Dot"
+    },
+    {
+        "symbol": "angle.r.double",
+        "name": "Mathematical Right Double Angle Bracket"
+    },
+    {
+        "symbol": "angle.acute",
+        "name": "Acute Angle"
+    },
+    {
+        "symbol": "angle.arc",
+        "name": "Measured Angle"
+    },
+    {
+        "symbol": "angle.arc.rev",
+        "name": "Measured Angle Opening Left"
+    },
+    {
+        "symbol": "angle.oblique",
+        "name": "Oblique Angle Opening Up"
+    },
+    {
+        "symbol": "angle.rev",
+        "name": "Reversed Angle"
+    },
+    {
+        "symbol": "angle.right",
+        "name": "Right Angle"
+    },
+    {
+        "symbol": "angle.right.rev",
+        "name": "Reversed Right Angle"
+    },
+    {
+        "symbol": "angle.right.arc",
+        "name": "Right Angle With Arc"
+    },
+    {
+        "symbol": "angle.right.dot",
+        "name": "Measured Right Angle With Dot"
+    },
+    {
+        "symbol": "angle.right.sq",
+        "name": "Right Angle Variant With Square"
+    },
+    {
+        "symbol": "angle.s",
+        "name": "Angle With S Inside"
+    },
+    {
+        "symbol": "angle.spatial",
+        "name": "Three Dimensional Angle"
+    },
+    {
+        "symbol": "angle.spheric",
+        "name": "Spherical Angle"
+    },
+    {
+        "symbol": "angle.spheric.rev",
+        "name": "Spherical Angle Opening Left"
+    },
+    {
+        "symbol": "angle.spheric.top",
+        "name": "Spherical Angle Opening Up"
+    },
+    {
+        "symbol": "angstrom",
+        "name": "Latin Capital Letter A With Ring Above"
+    },
+    {
+        "symbol": "approx",
+        "name": "Almost Equal To"
+    },
+    {
+        "symbol": "approx.eq",
+        "name": "Almost Equal Or Equal To"
+    },
+    {
+        "symbol": "approx.not",
+        "name": "Not Almost Equal To"
+    },
+    {
+        "symbol": "arrow.r",
+        "name": "Rightwards Arrow"
+    },
+    {
+        "symbol": "arrow.r.long.bar",
+        "name": "Long Rightwards Arrow From Bar"
+    },
+    {
+        "symbol": "arrow.r.bar",
+        "name": "Rightwards Arrow From Bar"
+    },
+    {
+        "symbol": "arrow.r.curve",
+        "name": "Arrow Pointing Downwards Then Curving Rightwards"
+    },
+    {
+        "symbol": "arrow.r.turn",
+        "name": "Anticlockwise Triangle Headed Left U Shaped Arrow"
+    },
+    {
+        "symbol": "arrow.r.dashed",
+        "name": "Rightwards Dashed Arrow"
+    },
+    {
+        "symbol": "arrow.r.dotted",
+        "name": "Rightwards Arrow With Dotted Stem"
+    },
+    {
+        "symbol": "arrow.r.double",
+        "name": "Rightwards Double Arrow"
+    },
+    {
+        "symbol": "arrow.r.double.bar",
+        "name": "Rightwards Double Arrow From Bar"
+    },
+    {
+        "symbol": "arrow.r.double.long",
+        "name": "Long Rightwards Double Arrow"
+    },
+    {
+        "symbol": "arrow.r.double.long.bar",
+        "name": "Long Rightwards Double Arrow From Bar"
+    },
+    {
+        "symbol": "arrow.r.double.not",
+        "name": "Rightwards Double Arrow With Stroke"
+    },
+    {
+        "symbol": "arrow.r.filled",
+        "name": "Black Rightwards Arrow"
+    },
+    {
+        "symbol": "arrow.r.hook",
+        "name": "Rightwards Arrow With Hook"
+    },
+    {
+        "symbol": "arrow.r.long",
+        "name": "Long Rightwards Arrow"
+    },
+    {
+        "symbol": "arrow.r.long.squiggly",
+        "name": "Long Rightwards Squiggle Arrow"
+    },
+    {
+        "symbol": "arrow.r.loop",
+        "name": "Rightwards Arrow With Loop"
+    },
+    {
+        "symbol": "arrow.r.not",
+        "name": "Rightwards Arrow With Stroke"
+    },
+    {
+        "symbol": "arrow.r.quad",
+        "name": "Rightwards Quadruple Arrow"
+    },
+    {
+        "symbol": "arrow.r.squiggly",
+        "name": "Rightwards Squiggle Arrow"
+    },
+    {
+        "symbol": "arrow.r.stop",
+        "name": "Rightwards Arrow To Bar"
+    },
+    {
+        "symbol": "arrow.r.stroked",
+        "name": "Rightwards White Arrow"
+    },
+    {
+        "symbol": "arrow.r.tail",
+        "name": "Rightwards Arrow With Tail"
+    },
+    {
+        "symbol": "arrow.r.tilde",
+        "name": "Tilde Operator Above Rightwards Arrow"
+    },
+    {
+        "symbol": "arrow.r.triple",
+        "name": "Rightwards Triple Arrow"
+    },
+    {
+        "symbol": "arrow.r.twohead.bar",
+        "name": "Rightwards Two Headed Arrow From Bar"
+    },
+    {
+        "symbol": "arrow.r.twohead",
+        "name": "Rightwards Two Headed Arrow"
+    },
+    {
+        "symbol": "arrow.r.wave",
+        "name": "Rightwards Wave Arrow"
+    },
+    {
+        "symbol": "arrow.l",
+        "name": "Leftwards Arrow"
+    },
+    {
+        "symbol": "arrow.l.bar",
+        "name": "Leftwards Arrow From Bar"
+    },
+    {
+        "symbol": "arrow.l.curve",
+        "name": "Arrow Pointing Downwards Then Curving Leftwards"
+    },
+    {
+        "symbol": "arrow.l.turn",
+        "name": "Anticlockwise Triangle Headed Right U Shaped Arrow"
+    },
+    {
+        "symbol": "arrow.l.dashed",
+        "name": "Leftwards Dashed Arrow"
+    },
+    {
+        "symbol": "arrow.l.dotted",
+        "name": "Leftwards Arrow With Dotted Stem"
+    },
+    {
+        "symbol": "arrow.l.double",
+        "name": "Leftwards Double Arrow"
+    },
+    {
+        "symbol": "arrow.l.double.bar",
+        "name": "Leftwards Double Arrow From Bar"
+    },
+    {
+        "symbol": "arrow.l.double.long",
+        "name": "Long Leftwards Double Arrow"
+    },
+    {
+        "symbol": "arrow.l.double.long.bar",
+        "name": "Long Leftwards Double Arrow From Bar"
+    },
+    {
+        "symbol": "arrow.l.double.not",
+        "name": "Leftwards Double Arrow With Stroke"
+    },
+    {
+        "symbol": "arrow.l.filled",
+        "name": "Leftwards Black Arrow"
+    },
+    {
+        "symbol": "arrow.l.hook",
+        "name": "Leftwards Arrow With Hook"
+    },
+    {
+        "symbol": "arrow.l.long",
+        "name": "Long Leftwards Arrow"
+    },
+    {
+        "symbol": "arrow.l.long.bar",
+        "name": "Long Leftwards Arrow From Bar"
+    },
+    {
+        "symbol": "arrow.l.long.squiggly",
+        "name": "Long Leftwards Squiggle Arrow"
+    },
+    {
+        "symbol": "arrow.l.loop",
+        "name": "Leftwards Arrow With Loop"
+    },
+    {
+        "symbol": "arrow.l.not",
+        "name": "Leftwards Arrow With Stroke"
+    },
+    {
+        "symbol": "arrow.l.quad",
+        "name": "Leftwards Quadruple Arrow"
+    },
+    {
+        "symbol": "arrow.l.squiggly",
+        "name": "Leftwards Squiggle Arrow"
+    },
+    {
+        "symbol": "arrow.l.stop",
+        "name": "Leftwards Arrow To Bar"
+    },
+    {
+        "symbol": "arrow.l.stroked",
+        "name": "Leftwards White Arrow"
+    },
+    {
+        "symbol": "arrow.l.tail",
+        "name": "Leftwards Arrow With Tail"
+    },
+    {
+        "symbol": "arrow.l.tilde",
+        "name": "Tilde Operator Above Leftwards Arrow"
+    },
+    {
+        "symbol": "arrow.l.triple",
+        "name": "Leftwards Triple Arrow"
+    },
+    {
+        "symbol": "arrow.l.twohead.bar",
+        "name": "Leftwards Two Headed Arrow From Bar"
+    },
+    {
+        "symbol": "arrow.l.twohead",
+        "name": "Leftwards Two Headed Arrow"
+    },
+    {
+        "symbol": "arrow.l.wave",
+        "name": "Leftwards Wave Arrow"
+    },
+    {
+        "symbol": "arrow.t",
+        "name": "Upwards Arrow"
+    },
+    {
+        "symbol": "arrow.t.bar",
+        "name": "Upwards Arrow From Bar"
+    },
+    {
+        "symbol": "arrow.t.curve",
+        "name": "Arrow Pointing Rightwards Then Curving Upwards"
+    },
+    {
+        "symbol": "arrow.t.turn",
+        "name": "Anticlockwise Triangle Headed Bottom U Shaped Arrow"
+    },
+    {
+        "symbol": "arrow.t.dashed",
+        "name": "Upwards Dashed Arrow"
+    },
+    {
+        "symbol": "arrow.t.double",
+        "name": "Upwards Double Arrow"
+    },
+    {
+        "symbol": "arrow.t.filled",
+        "name": "Upwards Black Arrow"
+    },
+    {
+        "symbol": "arrow.t.quad",
+        "name": "Upwards Quadruple Arrow"
+    },
+    {
+        "symbol": "arrow.t.stop",
+        "name": "Upwards Arrow To Bar"
+    },
+    {
+        "symbol": "arrow.t.stroked",
+        "name": "Upwards White Arrow"
+    },
+    {
+        "symbol": "arrow.t.triple",
+        "name": "Upwards Triple Arrow"
+    },
+    {
+        "symbol": "arrow.t.twohead",
+        "name": "Upwards Two Headed Arrow"
+    },
+    {
+        "symbol": "arrow.b",
+        "name": "Downwards Arrow"
+    },
+    {
+        "symbol": "arrow.b.bar",
+        "name": "Downwards Arrow From Bar"
+    },
+    {
+        "symbol": "arrow.b.curve",
+        "name": "Arrow Pointing Rightwards Then Curving Downwards"
+    },
+    {
+        "symbol": "arrow.b.turn",
+        "name": "Anticlockwise Triangle Headed Top U Shaped Arrow"
+    },
+    {
+        "symbol": "arrow.b.dashed",
+        "name": "Downwards Dashed Arrow"
+    },
+    {
+        "symbol": "arrow.b.double",
+        "name": "Downwards Double Arrow"
+    },
+    {
+        "symbol": "arrow.b.filled",
+        "name": "Downwards Black Arrow"
+    },
+    {
+        "symbol": "arrow.b.quad",
+        "name": "Downwards Quadruple Arrow"
+    },
+    {
+        "symbol": "arrow.b.stop",
+        "name": "Downwards Arrow To Bar"
+    },
+    {
+        "symbol": "arrow.b.stroked",
+        "name": "Downwards White Arrow"
+    },
+    {
+        "symbol": "arrow.b.triple",
+        "name": "Downwards Triple Arrow"
+    },
+    {
+        "symbol": "arrow.b.twohead",
+        "name": "Downwards Two Headed Arrow"
+    },
+    {
+        "symbol": "arrow.l.r",
+        "name": "Left Right Arrow"
+    },
+    {
+        "symbol": "arrow.l.r.double",
+        "name": "Left Right Double Arrow"
+    },
+    {
+        "symbol": "arrow.l.r.double.long",
+        "name": "Long Left Right Double Arrow"
+    },
+    {
+        "symbol": "arrow.l.r.double.not",
+        "name": "Left Right Double Arrow With Stroke"
+    },
+    {
+        "symbol": "arrow.l.r.filled",
+        "name": "Left Right Black Arrow"
+    },
+    {
+        "symbol": "arrow.l.r.long",
+        "name": "Long Left Right Arrow"
+    },
+    {
+        "symbol": "arrow.l.r.not",
+        "name": "Left Right Arrow With Stroke"
+    },
+    {
+        "symbol": "arrow.l.r.stroked",
+        "name": "Left Right White Arrow"
+    },
+    {
+        "symbol": "arrow.l.r.wave",
+        "name": "Left Right Wave Arrow"
+    },
+    {
+        "symbol": "arrow.t.b",
+        "name": "Up Down Arrow"
+    },
+    {
+        "symbol": "arrow.t.b.double",
+        "name": "Up Down Double Arrow"
+    },
+    {
+        "symbol": "arrow.t.b.filled",
+        "name": "Up Down Black Arrow"
+    },
+    {
+        "symbol": "arrow.t.b.stroked",
+        "name": "Up Down White Arrow"
+    },
+    {
+        "symbol": "arrow.tr",
+        "name": "North East Arrow"
+    },
+    {
+        "symbol": "arrow.tr.double",
+        "name": "North East Double Arrow"
+    },
+    {
+        "symbol": "arrow.tr.filled",
+        "name": "North East Black Arrow"
+    },
+    {
+        "symbol": "arrow.tr.hook",
+        "name": "North East Arrow With Hook"
+    },
+    {
+        "symbol": "arrow.tr.stroked",
+        "name": "North East White Arrow"
+    },
+    {
+        "symbol": "arrow.br",
+        "name": "South East Arrow"
+    },
+    {
+        "symbol": "arrow.br.double",
+        "name": "South East Double Arrow"
+    },
+    {
+        "symbol": "arrow.br.filled",
+        "name": "South East Black Arrow"
+    },
+    {
+        "symbol": "arrow.br.hook",
+        "name": "South East Arrow With Hook"
+    },
+    {
+        "symbol": "arrow.br.stroked",
+        "name": "South East White Arrow"
+    },
+    {
+        "symbol": "arrow.tl",
+        "name": "North West Arrow"
+    },
+    {
+        "symbol": "arrow.tl.double",
+        "name": "North West Double Arrow"
+    },
+    {
+        "symbol": "arrow.tl.filled",
+        "name": "North West Black Arrow"
+    },
+    {
+        "symbol": "arrow.tl.hook",
+        "name": "North West Arrow With Hook"
+    },
+    {
+        "symbol": "arrow.tl.stroked",
+        "name": "North West White Arrow"
+    },
+    {
+        "symbol": "arrow.bl",
+        "name": "South West Arrow"
+    },
+    {
+        "symbol": "arrow.bl.double",
+        "name": "South West Double Arrow"
+    },
+    {
+        "symbol": "arrow.bl.filled",
+        "name": "South West Black Arrow"
+    },
+    {
+        "symbol": "arrow.bl.hook",
+        "name": "South West Arrow With Hook"
+    },
+    {
+        "symbol": "arrow.bl.stroked",
+        "name": "South West White Arrow"
+    },
+    {
+        "symbol": "arrow.tl.br",
+        "name": "North West And South East Arrow"
+    },
+    {
+        "symbol": "arrow.tr.bl",
+        "name": "North East And South West Arrow"
+    },
+    {
+        "symbol": "arrow.ccw",
+        "name": "Anticlockwise Open Circle Arrow"
+    },
+    {
+        "symbol": "arrow.ccw.half",
+        "name": "Anticlockwise Top Semicircle Arrow"
+    },
+    {
+        "symbol": "arrow.cw",
+        "name": "Clockwise Open Circle Arrow"
+    },
+    {
+        "symbol": "arrow.cw.half",
+        "name": "Clockwise Top Semicircle Arrow"
+    },
+    {
+        "symbol": "arrow.zigzag",
+        "name": "Downwards Zigzag Arrow"
+    },
+    {
+        "symbol": "arrowhead.t",
+        "name": "Up Arrowhead"
+    },
+    {
+        "symbol": "arrowhead.b",
+        "name": "Down Arrowhead"
+    },
+    {
+        "symbol": "arrows.rr",
+        "name": "Rightwards Paired Arrows"
+    },
+    {
+        "symbol": "arrows.ll",
+        "name": "Leftwards Paired Arrows"
+    },
+    {
+        "symbol": "arrows.tt",
+        "name": "Upwards Paired Arrows"
+    },
+    {
+        "symbol": "arrows.bb",
+        "name": "Downwards Paired Arrows"
+    },
+    {
+        "symbol": "arrows.lr",
+        "name": "Leftwards Arrow Over Rightwards Arrow"
+    },
+    {
+        "symbol": "arrows.lr.stop",
+        "name": "Leftwards Arrow To Bar Over Rightwards Arrow To Bar"
+    },
+    {
+        "symbol": "arrows.rl",
+        "name": "Rightwards Arrow Over Leftwards Arrow"
+    },
+    {
+        "symbol": "arrows.tb",
+        "name": "Upwards Arrow Leftwards Of Downwards Arrow"
+    },
+    {
+        "symbol": "arrows.bt",
+        "name": "Downwards Arrow Leftwards Of Upwards Arrow"
+    },
+    {
+        "symbol": "arrows.rrr",
+        "name": "Three Rightwards Arrows"
+    },
+    {
+        "symbol": "arrows.lll",
+        "name": "Three Leftwards Arrows"
+    },
+    {
+        "symbol": "ast.op",
+        "name": "Asterisk Operator"
+    },
+    {
+        "symbol": "ast.basic",
+        "name": "Asterisk"
+    },
+    {
+        "symbol": "ast.low",
+        "name": "Low Asterisk"
+    },
+    {
+        "symbol": "ast.double",
+        "name": "Two Asterisks Aligned Vertically"
+    },
+    {
+        "symbol": "ast.triple",
+        "name": "Asterism"
+    },
+    {
+        "symbol": "ast.small",
+        "name": "Small Asterisk"
+    },
+    {
+        "symbol": "ast.circle",
+        "name": "Circled Asterisk Operator"
+    },
+    {
+        "symbol": "ast.square",
+        "name": "Squared Asterisk"
+    },
+    {
+        "symbol": "asymp",
+        "name": "Equivalent To"
+    },
+    {
+        "symbol": "asymp.not",
+        "name": "Not Equivalent To"
+    },
+    {
+        "symbol": "at",
+        "name": "Commercial At"
+    },
+    {
+        "symbol": "backslash",
+        "name": "Reverse Solidus"
+    },
+    {
+        "symbol": "backslash.circle",
+        "name": "Circled Reverse Solidus"
+    },
+    {
+        "symbol": "backslash.not",
+        "name": "Reverse Solidus With Horizontal Stroke"
+    },
+    {
+        "symbol": "ballot",
+        "name": "Ballot Box"
+    },
+    {
+        "symbol": "ballot.cross",
+        "name": "Ballot Box With X"
+    },
+    {
+        "symbol": "ballot.check",
+        "name": "Ballot Box With Check"
+    },
+    {
+        "symbol": "ballot.check.heavy",
+        "name": "Ballot Box With Bold Check"
+    },
+    {
+        "symbol": "bar.v",
+        "name": "Vertical Line"
+    },
+    {
+        "symbol": "bar.v.double",
+        "name": "Double Vertical Line"
+    },
+    {
+        "symbol": "bar.v.triple",
+        "name": "Triple Vertical Bar Delimiter"
+    },
+    {
+        "symbol": "bar.v.broken",
+        "name": "Broken Bar"
+    },
+    {
+        "symbol": "bar.v.circle",
+        "name": "Circled Vertical Bar"
+    },
+    {
+        "symbol": "bar.h",
+        "name": "Horizontal Bar"
+    },
+    {
+        "symbol": "because",
+        "name": "Because"
+    },
+    {
+        "symbol": "bet",
+        "name": "Hebrew Letter Bet"
+    },
+    {
+        "symbol": "beta",
+        "name": "Greek Small Letter Beta"
+    },
+    {
+        "symbol": "beta.alt",
+        "name": "Greek Beta Symbol"
+    },
+    {
+        "symbol": "beth",
+        "name": "Hebrew Letter Bet"
+    },
+    {
+        "symbol": "bitcoin",
+        "name": "Bitcoin Sign"
+    },
+    {
+        "symbol": "bot",
+        "name": "Up Tack"
+    },
+    {
+        "symbol": "brace.l",
+        "name": "Left Curly Bracket"
+    },
+    {
+        "symbol": "brace.l.double",
+        "name": "Left White Curly Bracket"
+    },
+    {
+        "symbol": "brace.r",
+        "name": "Right Curly Bracket"
+    },
+    {
+        "symbol": "brace.r.double",
+        "name": "Right White Curly Bracket"
+    },
+    {
+        "symbol": "brace.t",
+        "name": "Top Curly Bracket"
+    },
+    {
+        "symbol": "brace.b",
+        "name": "Bottom Curly Bracket"
+    },
+    {
+        "symbol": "bracket.l",
+        "name": "Left Square Bracket"
+    },
+    {
+        "symbol": "bracket.l.double",
+        "name": "Mathematical Left White Square Bracket"
+    },
+    {
+        "symbol": "bracket.r",
+        "name": "Right Square Bracket"
+    },
+    {
+        "symbol": "bracket.r.double",
+        "name": "Mathematical Right White Square Bracket"
+    },
+    {
+        "symbol": "bracket.t",
+        "name": "Top Square Bracket"
+    },
+    {
+        "symbol": "bracket.b",
+        "name": "Bottom Square Bracket"
+    },
+    {
+        "symbol": "breve",
+        "name": "Breve"
+    },
+    {
+        "symbol": "bullet",
+        "name": "Bullet"
+    },
+    {
+        "symbol": "caret",
+        "name": "Caret"
+    },
+    {
+        "symbol": "caron",
+        "name": "Caron"
+    },
+    {
+        "symbol": "ceil.l",
+        "name": "Left Ceiling"
+    },
+    {
+        "symbol": "ceil.r",
+        "name": "Right Ceiling"
+    },
+    {
+        "symbol": "checkmark",
+        "name": "Check Mark"
+    },
+    {
+        "symbol": "checkmark.light",
+        "name": "Light Check Mark"
+    },
+    {
+        "symbol": "checkmark.heavy",
+        "name": "Heavy Check Mark"
+    },
+    {
+        "symbol": "chi",
+        "name": "Greek Small Letter Chi"
+    },
+    {
+        "symbol": "circle.stroked",
+        "name": "White Circle"
+    },
+    {
+        "symbol": "circle.stroked.tiny",
+        "name": "Ring Operator"
+    },
+    {
+        "symbol": "circle.stroked.small",
+        "name": "Medium Small White Circle"
+    },
+    {
+        "symbol": "circle.stroked.big",
+        "name": "Large Circle"
+    },
+    {
+        "symbol": "circle.filled",
+        "name": "Black Circle"
+    },
+    {
+        "symbol": "circle.filled.tiny",
+        "name": "Z Notation Spot"
+    },
+    {
+        "symbol": "circle.filled.small",
+        "name": "Bullet Operator"
+    },
+    {
+        "symbol": "circle.filled.big",
+        "name": "Black Large Circle"
+    },
+    {
+        "symbol": "circle.dotted",
+        "name": "Dotted Circle"
+    },
+    {
+        "symbol": "circle.nested",
+        "name": "Circled Ring Operator"
+    },
+    {
+        "symbol": "co",
+        "name": "Care Of"
+    },
+    {
+        "symbol": "colon",
+        "name": "Colon"
+    },
+    {
+        "symbol": "colon.double",
+        "name": "Proportion"
+    },
+    {
+        "symbol": "colon.tri",
+        "name": "Tricolon"
+    },
+    {
+        "symbol": "colon.tri.op",
+        "name": "Triple Colon Operator"
+    },
+    {
+        "symbol": "colon.eq",
+        "name": "Colon Equals"
+    },
+    {
+        "symbol": "colon.double.eq",
+        "name": "Double Colon Equal"
+    },
+    {
+        "symbol": "comma",
+        "name": "Comma"
+    },
+    {
+        "symbol": "complement",
+        "name": "Complement"
+    },
+    {
+        "symbol": "compose",
+        "name": "Ring Operator"
+    },
+    {
+        "symbol": "convolve",
+        "name": "Asterisk Operator"
+    },
+    {
+        "symbol": "copyleft",
+        "name": "Copyleft Symbol"
+    },
+    {
+        "symbol": "copyright",
+        "name": "Copyright Sign"
+    },
+    {
+        "symbol": "copyright.sound",
+        "name": "Sound Recording Copyright"
+    },
+    {
+        "symbol": "crossmark",
+        "name": "Ballot X"
+    },
+    {
+        "symbol": "crossmark.heavy",
+        "name": "Heavy Ballot X"
+    },
+    {
+        "symbol": "dagger",
+        "name": "Dagger"
+    },
+    {
+        "symbol": "dagger.double",
+        "name": "Double Dagger"
+    },
+    {
+        "symbol": "dagger.triple",
+        "name": "Triple Dagger"
+    },
+    {
+        "symbol": "dagger.l",
+        "name": "Dagger With Left Guard"
+    },
+    {
+        "symbol": "dagger.r",
+        "name": "Dagger With Right Guard"
+    },
+    {
+        "symbol": "dagger.inv",
+        "name": "Turned Dagger"
+    },
+    {
+        "symbol": "dalet",
+        "name": "Hebrew Letter Dalet"
+    },
+    {
+        "symbol": "daleth",
+        "name": "Hebrew Letter Dalet"
+    },
+    {
+        "symbol": "dash.en",
+        "name": "En Dash"
+    },
+    {
+        "symbol": "dash.em",
+        "name": "Em Dash"
+    },
+    {
+        "symbol": "dash.em.two",
+        "name": "Two Em Dash"
+    },
+    {
+        "symbol": "dash.em.three",
+        "name": "Three Em Dash"
+    },
+    {
+        "symbol": "dash.fig",
+        "name": "Figure Dash"
+    },
+    {
+        "symbol": "dash.wave",
+        "name": "Wave Dash"
+    },
+    {
+        "symbol": "dash.colon",
+        "name": "Excess"
+    },
+    {
+        "symbol": "dash.circle",
+        "name": "Circled Dash"
+    },
+    {
+        "symbol": "dash.wave.double",
+        "name": "Wavy Dash"
+    },
+    {
+        "symbol": "degree",
+        "name": "Degree Sign"
+    },
+    {
+        "symbol": "delta",
+        "name": "Greek Small Letter Delta"
+    },
+    {
+        "symbol": "diaer",
+        "name": "Diaeresis"
+    },
+    {
+        "symbol": "diameter",
+        "name": "Diameter Sign"
+    },
+    {
+        "symbol": "diamond.stroked",
+        "name": "White Diamond"
+    },
+    {
+        "symbol": "diamond.stroked.small",
+        "name": "Diamond Operator"
+    },
+    {
+        "symbol": "diamond.stroked.medium",
+        "name": "White Medium Diamond"
+    },
+    {
+        "symbol": "diamond.stroked.dot",
+        "name": "White Diamond With Centred Dot"
+    },
+    {
+        "symbol": "diamond.filled",
+        "name": "Black Diamond"
+    },
+    {
+        "symbol": "diamond.filled.medium",
+        "name": "Black Medium Diamond"
+    },
+    {
+        "symbol": "diamond.filled.small",
+        "name": "Black Small Diamond"
+    },
+    {
+        "symbol": "die.six",
+        "name": "Die Face 6"
+    },
+    {
+        "symbol": "die.five",
+        "name": "Die Face 5"
+    },
+    {
+        "symbol": "die.four",
+        "name": "Die Face 4"
+    },
+    {
+        "symbol": "die.three",
+        "name": "Die Face 3"
+    },
+    {
+        "symbol": "die.two",
+        "name": "Die Face 2"
+    },
+    {
+        "symbol": "die.one",
+        "name": "Die Face 1"
+    },
+    {
+        "symbol": "diff",
+        "name": "Partial Differential"
+    },
+    {
+        "symbol": "div",
+        "name": "Division Sign"
+    },
+    {
+        "symbol": "div.circle",
+        "name": "Circled Division Sign"
+    },
+    {
+        "symbol": "divides",
+        "name": "Divides"
+    },
+    {
+        "symbol": "divides.not",
+        "name": "Does Not Divide"
+    },
+    {
+        "symbol": "divides.not.rev",
+        "name": "Does Not Divide With Reversed Negation Slash"
+    },
+    {
+        "symbol": "divides.struck",
+        "name": "Vertical Bar With Horizontal Stroke"
+    },
+    {
+        "symbol": "dollar",
+        "name": "Dollar Sign"
+    },
+    {
+        "symbol": "dot.op",
+        "name": "Dot Operator"
+    },
+    {
+        "symbol": "dot.basic",
+        "name": "Full Stop"
+    },
+    {
+        "symbol": "dot.c",
+        "name": "Middle Dot"
+    },
+    {
+        "symbol": "dot.circle",
+        "name": "Circled Dot Operator"
+    },
+    {
+        "symbol": "dot.circle.big",
+        "name": "N Ary Circled Dot Operator"
+    },
+    {
+        "symbol": "dot.square",
+        "name": "Squared Dot Operator"
+    },
+    {
+        "symbol": "dot.double",
+        "name": "Diaeresis"
+    },
+    {
+        "symbol": "dot.triple",
+        "name": "Combining Three Dots Above"
+    },
+    {
+        "symbol": "dot.quad",
+        "name": "Combining Four Dots Above"
+    },
+    {
+        "symbol": "dotless.i",
+        "name": "Latin Small Letter Dotless I"
+    },
+    {
+        "symbol": "dotless.j",
+        "name": "Latin Small Letter Dotless J"
+    },
+    {
+        "symbol": "dots.h.c",
+        "name": "Midline Horizontal Ellipsis"
+    },
+    {
+        "symbol": "dots.h",
+        "name": "Horizontal Ellipsis"
+    },
+    {
+        "symbol": "dots.v",
+        "name": "Vertical Ellipsis"
+    },
+    {
+        "symbol": "dots.down",
+        "name": "Down Right Diagonal Ellipsis"
+    },
+    {
+        "symbol": "dots.up",
+        "name": "Up Right Diagonal Ellipsis"
+    },
+    {
+        "symbol": "ell",
+        "name": "Script Small L"
+    },
+    {
+        "symbol": "ellipse.stroked.h",
+        "name": "White Horizontal Ellipse"
+    },
+    {
+        "symbol": "ellipse.stroked.v",
+        "name": "White Vertical Ellipse"
+    },
+    {
+        "symbol": "ellipse.filled.h",
+        "name": "Black Horizontal Ellipse"
+    },
+    {
+        "symbol": "ellipse.filled.v",
+        "name": "Black Vertical Ellipse"
+    },
+    {
+        "symbol": "emptyset",
+        "name": "Empty Set"
+    },
+    {
+        "symbol": "emptyset.arrow.r",
+        "name": "Empty Set With Right Arrow Above"
+    },
+    {
+        "symbol": "emptyset.arrow.l",
+        "name": "Empty Set With Left Arrow Above"
+    },
+    {
+        "symbol": "emptyset.bar",
+        "name": "Empty Set With Overbar"
+    },
+    {
+        "symbol": "emptyset.circle",
+        "name": "Empty Set With Small Circle Above"
+    },
+    {
+        "symbol": "emptyset.rev",
+        "name": "Reversed Empty Set"
+    },
+    {
+        "symbol": "epsilon",
+        "name": "Greek Small Letter Epsilon"
+    },
+    {
+        "symbol": "epsilon.alt",
+        "name": "Greek Lunate Epsilon Symbol"
+    },
+    {
+        "symbol": "eq",
+        "name": "Equals Sign"
+    },
+    {
+        "symbol": "eq.star",
+        "name": "Star Equals"
+    },
+    {
+        "symbol": "eq.circle",
+        "name": "Circled Equals"
+    },
+    {
+        "symbol": "eq.colon",
+        "name": "Equals Colon"
+    },
+    {
+        "symbol": "eq.dots",
+        "name": "Geometrically Equal To"
+    },
+    {
+        "symbol": "eq.dots.down",
+        "name": "Approximately Equal To Or The Image Of"
+    },
+    {
+        "symbol": "eq.dots.up",
+        "name": "Image Of Or Approximately Equal To"
+    },
+    {
+        "symbol": "eq.def",
+        "name": "Equal To By Definition"
+    },
+    {
+        "symbol": "eq.delta",
+        "name": "Delta Equal To"
+    },
+    {
+        "symbol": "eq.equi",
+        "name": "Equiangular To"
+    },
+    {
+        "symbol": "eq.est",
+        "name": "Estimates"
+    },
+    {
+        "symbol": "eq.gt",
+        "name": "Equal To Or Greater Than"
+    },
+    {
+        "symbol": "eq.lt",
+        "name": "Equal To Or Less Than"
+    },
+    {
+        "symbol": "eq.m",
+        "name": "Measured By"
+    },
+    {
+        "symbol": "eq.not",
+        "name": "Not Equal To"
+    },
+    {
+        "symbol": "eq.prec",
+        "name": "Equal To Or Precedes"
+    },
+    {
+        "symbol": "eq.quest",
+        "name": "Questioned Equal To"
+    },
+    {
+        "symbol": "eq.small",
+        "name": "Small Equals Sign"
+    },
+    {
+        "symbol": "eq.succ",
+        "name": "Equal To Or Succeeds"
+    },
+    {
+        "symbol": "eq.triple",
+        "name": "Identical To"
+    },
+    {
+        "symbol": "eq.triple.not",
+        "name": "Not Identical To"
+    },
+    {
+        "symbol": "eq.quad",
+        "name": "Strictly Equivalent To"
+    },
+    {
+        "symbol": "equiv",
+        "name": "Identical To"
+    },
+    {
+        "symbol": "equiv.not",
+        "name": "Not Identical To"
+    },
+    {
+        "symbol": "errorbar.square.stroked",
+        "name": "Error Barred White Square"
+    },
+    {
+        "symbol": "errorbar.square.filled",
+        "name": "Error Barred Black Square"
+    },
+    {
+        "symbol": "errorbar.diamond.stroked",
+        "name": "Error Barred White Diamond"
+    },
+    {
+        "symbol": "errorbar.diamond.filled",
+        "name": "Error Barred Black Diamond"
+    },
+    {
+        "symbol": "errorbar.circle.stroked",
+        "name": "Error Barred White Circle"
+    },
+    {
+        "symbol": "errorbar.circle.filled",
+        "name": "Error Barred Black Circle"
+    },
+    {
+        "symbol": "eta",
+        "name": "Greek Small Letter Eta"
+    },
+    {
+        "symbol": "euro",
+        "name": "Euro Sign"
+    },
+    {
+        "symbol": "excl",
+        "name": "Exclamation Mark"
+    },
+    {
+        "symbol": "excl.double",
+        "name": "Double Exclamation Mark"
+    },
+    {
+        "symbol": "excl.inv",
+        "name": "Inverted Exclamation Mark"
+    },
+    {
+        "symbol": "excl.quest",
+        "name": "Exclamation Question Mark"
+    },
+    {
+        "symbol": "exists",
+        "name": "There Exists"
+    },
+    {
+        "symbol": "exists.not",
+        "name": "There Does Not Exist"
+    },
+    {
+        "symbol": "fence.l",
+        "name": "Left Wiggly Fence"
+    },
+    {
+        "symbol": "fence.l.double",
+        "name": "Left Double Wiggly Fence"
+    },
+    {
+        "symbol": "fence.r",
+        "name": "Right Wiggly Fence"
+    },
+    {
+        "symbol": "fence.r.double",
+        "name": "Right Double Wiggly Fence"
+    },
+    {
+        "symbol": "fence.dotted",
+        "name": "Dotted Fence"
+    },
+    {
+        "symbol": "flat",
+        "name": "Music Flat Sign"
+    },
+    {
+        "symbol": "flat.t",
+        "name": "Musical Symbol Flat Up"
+    },
+    {
+        "symbol": "flat.b",
+        "name": "Musical Symbol Flat Down"
+    },
+    {
+        "symbol": "flat.double",
+        "name": "Musical Symbol Double Flat"
+    },
+    {
+        "symbol": "flat.quarter",
+        "name": "Musical Symbol Quarter Tone Flat"
+    },
+    {
+        "symbol": "floor.l",
+        "name": "Left Floor"
+    },
+    {
+        "symbol": "floor.r",
+        "name": "Right Floor"
+    },
+    {
+        "symbol": "floral",
+        "name": "Floral Heart"
+    },
+    {
+        "symbol": "floral.l",
+        "name": "Reversed Rotated Floral Heart Bullet"
+    },
+    {
+        "symbol": "floral.r",
+        "name": "Rotated Floral Heart Bullet"
+    },
+    {
+        "symbol": "forall",
+        "name": "For All"
+    },
+    {
+        "symbol": "forces",
+        "name": "Forces"
+    },
+    {
+        "symbol": "forces.not",
+        "name": "Does Not Force"
+    },
+    {
+        "symbol": "franc",
+        "name": "French Franc Sign"
+    },
+    {
+        "symbol": "gamma",
+        "name": "Greek Small Letter Gamma"
+    },
+    {
+        "symbol": "gimel",
+        "name": "Hebrew Letter Gimel"
+    },
+    {
+        "symbol": "gimmel",
+        "name": "Hebrew Letter Gimel"
+    },
+    {
+        "symbol": "gradient",
+        "name": "Nabla"
+    },
+    {
+        "symbol": "grave",
+        "name": "Grave Accent"
+    },
+    {
+        "symbol": "gt",
+        "name": "Greater Than Sign"
+    },
+    {
+        "symbol": "gt.circle",
+        "name": "Circled Greater Than"
+    },
+    {
+        "symbol": "gt.dot",
+        "name": "Greater Than With Dot"
+    },
+    {
+        "symbol": "gt.approx",
+        "name": "Greater Than Or Approximate"
+    },
+    {
+        "symbol": "gt.double",
+        "name": "Much Greater Than"
+    },
+    {
+        "symbol": "gt.eq",
+        "name": "Greater Than Or Equal To"
+    },
+    {
+        "symbol": "gt.eq.slant",
+        "name": "Greater Than Or Slanted Equal To"
+    },
+    {
+        "symbol": "gt.eq.lt",
+        "name": "Greater Than Equal To Or Less Than"
+    },
+    {
+        "symbol": "gt.eq.not",
+        "name": "Neither Greater Than Nor Equal To"
+    },
+    {
+        "symbol": "gt.equiv",
+        "name": "Greater Than Over Equal To"
+    },
+    {
+        "symbol": "gt.lt",
+        "name": "Greater Than Or Less Than"
+    },
+    {
+        "symbol": "gt.lt.not",
+        "name": "Neither Greater Than Nor Less Than"
+    },
+    {
+        "symbol": "gt.neq",
+        "name": "Greater Than And Single Line Not Equal To"
+    },
+    {
+        "symbol": "gt.napprox",
+        "name": "Greater Than And Not Approximate"
+    },
+    {
+        "symbol": "gt.nequiv",
+        "name": "Greater Than But Not Equal To"
+    },
+    {
+        "symbol": "gt.not",
+        "name": "Not Greater Than"
+    },
+    {
+        "symbol": "gt.ntilde",
+        "name": "Greater Than But Not Equivalent To"
+    },
+    {
+        "symbol": "gt.small",
+        "name": "Small Greater Than Sign"
+    },
+    {
+        "symbol": "gt.tilde",
+        "name": "Greater Than Or Equivalent To"
+    },
+    {
+        "symbol": "gt.tilde.not",
+        "name": "Neither Greater Than Nor Equivalent To"
+    },
+    {
+        "symbol": "gt.tri",
+        "name": "Contains As Normal Subgroup"
+    },
+    {
+        "symbol": "gt.tri.eq",
+        "name": "Contains As Normal Subgroup Or Equal To"
+    },
+    {
+        "symbol": "gt.tri.eq.not",
+        "name": "Does Not Contain As Normal Subgroup Or Equal"
+    },
+    {
+        "symbol": "gt.tri.not",
+        "name": "Does Not Contain As Normal Subgroup"
+    },
+    {
+        "symbol": "gt.triple",
+        "name": "Very Much Greater Than"
+    },
+    {
+        "symbol": "gt.triple.nested",
+        "name": "Triple Nested Greater Than"
+    },
+    {
+        "symbol": "harpoon.rt",
+        "name": "Rightwards Harpoon With Barb Upwards"
+    },
+    {
+        "symbol": "harpoon.rt.bar",
+        "name": "Rightwards Harpoon With Barb Up From Bar"
+    },
+    {
+        "symbol": "harpoon.rt.stop",
+        "name": "Rightwards Harpoon With Barb Up To Bar"
+    },
+    {
+        "symbol": "harpoon.rb",
+        "name": "Rightwards Harpoon With Barb Downwards"
+    },
+    {
+        "symbol": "harpoon.rb.bar",
+        "name": "Rightwards Harpoon With Barb Down From Bar"
+    },
+    {
+        "symbol": "harpoon.rb.stop",
+        "name": "Rightwards Harpoon With Barb Down To Bar"
+    },
+    {
+        "symbol": "harpoon.lt",
+        "name": "Leftwards Harpoon With Barb Upwards"
+    },
+    {
+        "symbol": "harpoon.lt.bar",
+        "name": "Leftwards Harpoon With Barb Up From Bar"
+    },
+    {
+        "symbol": "harpoon.lt.stop",
+        "name": "Leftwards Harpoon With Barb Up To Bar"
+    },
+    {
+        "symbol": "harpoon.lb",
+        "name": "Leftwards Harpoon With Barb Downwards"
+    },
+    {
+        "symbol": "harpoon.lb.bar",
+        "name": "Leftwards Harpoon With Barb Down From Bar"
+    },
+    {
+        "symbol": "harpoon.lb.stop",
+        "name": "Leftwards Harpoon With Barb Down To Bar"
+    },
+    {
+        "symbol": "harpoon.tl",
+        "name": "Upwards Harpoon With Barb Leftwards"
+    },
+    {
+        "symbol": "harpoon.tl.bar",
+        "name": "Upwards Harpoon With Barb Left From Bar"
+    },
+    {
+        "symbol": "harpoon.tl.stop",
+        "name": "Upwards Harpoon With Barb Left To Bar"
+    },
+    {
+        "symbol": "harpoon.tr",
+        "name": "Upwards Harpoon With Barb Rightwards"
+    },
+    {
+        "symbol": "harpoon.tr.bar",
+        "name": "Upwards Harpoon With Barb Right From Bar"
+    },
+    {
+        "symbol": "harpoon.tr.stop",
+        "name": "Upwards Harpoon With Barb Right To Bar"
+    },
+    {
+        "symbol": "harpoon.bl",
+        "name": "Downwards Harpoon With Barb Leftwards"
+    },
+    {
+        "symbol": "harpoon.bl.bar",
+        "name": "Downwards Harpoon With Barb Left From Bar"
+    },
+    {
+        "symbol": "harpoon.bl.stop",
+        "name": "Downwards Harpoon With Barb Left To Bar"
+    },
+    {
+        "symbol": "harpoon.br",
+        "name": "Downwards Harpoon With Barb Rightwards"
+    },
+    {
+        "symbol": "harpoon.br.bar",
+        "name": "Downwards Harpoon With Barb Right From Bar"
+    },
+    {
+        "symbol": "harpoon.br.stop",
+        "name": "Downwards Harpoon With Barb Right To Bar"
+    },
+    {
+        "symbol": "harpoon.lt.rt",
+        "name": "Left Barb Up Right Barb Up Harpoon"
+    },
+    {
+        "symbol": "harpoon.lb.rb",
+        "name": "Left Barb Down Right Barb Down Harpoon"
+    },
+    {
+        "symbol": "harpoon.lb.rt",
+        "name": "Left Barb Down Right Barb Up Harpoon"
+    },
+    {
+        "symbol": "harpoon.lt.rb",
+        "name": "Left Barb Up Right Barb Down Harpoon"
+    },
+    {
+        "symbol": "harpoon.tl.bl",
+        "name": "Up Barb Left Down Barb Left Harpoon"
+    },
+    {
+        "symbol": "harpoon.tr.br",
+        "name": "Up Barb Right Down Barb Right Harpoon"
+    },
+    {
+        "symbol": "harpoon.tl.br",
+        "name": "Up Barb Left Down Barb Right Harpoon"
+    },
+    {
+        "symbol": "harpoon.tr.bl",
+        "name": "Up Barb Right Down Barb Left Harpoon"
+    },
+    {
+        "symbol": "harpoons.rtrb",
+        "name": "Rightwards Harpoon With Barb Up Above Rightwards Harpoon With Barb Down"
+    },
+    {
+        "symbol": "harpoons.blbr",
+        "name": "Downwards Harpoon With Barb Left Beside Downwards Harpoon With Barb Right"
+    },
+    {
+        "symbol": "harpoons.bltr",
+        "name": "Downwards Harpoon With Barb Left Beside Upwards Harpoon With Barb Right"
+    },
+    {
+        "symbol": "harpoons.lbrb",
+        "name": "Leftwards Harpoon With Barb Down Above Rightwards Harpoon With Barb Down"
+    },
+    {
+        "symbol": "harpoons.ltlb",
+        "name": "Leftwards Harpoon With Barb Up Above Leftwards Harpoon With Barb Down"
+    },
+    {
+        "symbol": "harpoons.ltrb",
+        "name": "Leftwards Harpoon Over Rightwards Harpoon"
+    },
+    {
+        "symbol": "harpoons.ltrt",
+        "name": "Leftwards Harpoon With Barb Up Above Rightwards Harpoon With Barb Up"
+    },
+    {
+        "symbol": "harpoons.rblb",
+        "name": "Rightwards Harpoon With Barb Down Above Leftwards Harpoon With Barb Down"
+    },
+    {
+        "symbol": "harpoons.rtlb",
+        "name": "Rightwards Harpoon Over Leftwards Harpoon"
+    },
+    {
+        "symbol": "harpoons.rtlt",
+        "name": "Rightwards Harpoon With Barb Up Above Leftwards Harpoon With Barb Up"
+    },
+    {
+        "symbol": "harpoons.tlbr",
+        "name": "Upwards Harpoon With Barb Left Beside Downwards Harpoon With Barb Right"
+    },
+    {
+        "symbol": "harpoons.tltr",
+        "name": "Upwards Harpoon With Barb Left Beside Upwards Harpoon With Barb Right"
+    },
+    {
+        "symbol": "hash",
+        "name": "Number Sign"
+    },
+    {
+        "symbol": "hat",
+        "name": "Circumflex Accent"
+    },
+    {
+        "symbol": "hexa.stroked",
+        "name": "White Hexagon"
+    },
+    {
+        "symbol": "hexa.filled",
+        "name": "Black Hexagon"
+    },
+    {
+        "symbol": "hourglass.stroked",
+        "name": "White Hourglass"
+    },
+    {
+        "symbol": "hourglass.filled",
+        "name": "Black Hourglass"
+    },
+    {
+        "symbol": "hyph",
+        "name": "Hyphen"
+    },
+    {
+        "symbol": "hyph.minus",
+        "name": "Hyphen Minus"
+    },
+    {
+        "symbol": "hyph.nobreak",
+        "name": "Non Breaking Hyphen"
+    },
+    {
+        "symbol": "hyph.point",
+        "name": "Hyphenation Point"
+    },
+    {
+        "symbol": "hyph.soft",
+        "name": "Soft Hyphen"
+    },
+    {
+        "symbol": "image",
+        "name": "Image Of"
+    },
+    {
+        "symbol": "in",
+        "name": "Element Of"
+    },
+    {
+        "symbol": "in.not",
+        "name": "Not An Element Of"
+    },
+    {
+        "symbol": "in.rev",
+        "name": "Contains As Member"
+    },
+    {
+        "symbol": "in.rev.not",
+        "name": "Does Not Contain As Member"
+    },
+    {
+        "symbol": "in.rev.small",
+        "name": "Small Contains As Member"
+    },
+    {
+        "symbol": "in.small",
+        "name": "Small Element Of"
+    },
+    {
+        "symbol": "infinity",
+        "name": "Infinity"
+    },
+    {
+        "symbol": "infinity.bar",
+        "name": "Infinity Negated With Vertical Bar"
+    },
+    {
+        "symbol": "infinity.incomplete",
+        "name": "Incomplete Infinity"
+    },
+    {
+        "symbol": "infinity.tie",
+        "name": "Tie Over Infinity"
+    },
+    {
+        "symbol": "integral",
+        "name": "Integral"
+    },
+    {
+        "symbol": "integral.arrow.hook",
+        "name": "Integral With Leftwards Arrow With Hook"
+    },
+    {
+        "symbol": "integral.ccw",
+        "name": "Anticlockwise Integration"
+    },
+    {
+        "symbol": "integral.cont",
+        "name": "Contour Integral"
+    },
+    {
+        "symbol": "integral.cont.ccw",
+        "name": "Anticlockwise Contour Integral"
+    },
+    {
+        "symbol": "integral.cont.cw",
+        "name": "Clockwise Contour Integral"
+    },
+    {
+        "symbol": "integral.cw",
+        "name": "Clockwise Integral"
+    },
+    {
+        "symbol": "integral.dash",
+        "name": "Finite Part Integral"
+    },
+    {
+        "symbol": "integral.dash.double",
+        "name": "Integral With Double Stroke"
+    },
+    {
+        "symbol": "integral.double",
+        "name": "Double Integral"
+    },
+    {
+        "symbol": "integral.quad",
+        "name": "Quadruple Integral Operator"
+    },
+    {
+        "symbol": "integral.inter",
+        "name": "Integral With Intersection"
+    },
+    {
+        "symbol": "integral.sect",
+        "name": "Integral With Intersection"
+    },
+    {
+        "symbol": "integral.slash",
+        "name": "Integral Average With Slash"
+    },
+    {
+        "symbol": "integral.square",
+        "name": "Quaternion Integral Operator"
+    },
+    {
+        "symbol": "integral.surf",
+        "name": "Surface Integral"
+    },
+    {
+        "symbol": "integral.times",
+        "name": "Integral With Times Sign"
+    },
+    {
+        "symbol": "integral.triple",
+        "name": "Triple Integral"
+    },
+    {
+        "symbol": "integral.union",
+        "name": "Integral With Union"
+    },
+    {
+        "symbol": "integral.vol",
+        "name": "Volume Integral"
+    },
+    {
+        "symbol": "inter",
+        "name": "Intersection"
+    },
+    {
+        "symbol": "inter.and",
+        "name": "Intersection With Logical And"
+    },
+    {
+        "symbol": "inter.big",
+        "name": "N Ary Intersection"
+    },
+    {
+        "symbol": "inter.dot",
+        "name": "Intersection With Dot"
+    },
+    {
+        "symbol": "inter.double",
+        "name": "Double Intersection"
+    },
+    {
+        "symbol": "inter.sq",
+        "name": "Square Cap"
+    },
+    {
+        "symbol": "inter.sq.big",
+        "name": "N Ary Square Intersection Operator"
+    },
+    {
+        "symbol": "inter.sq.double",
+        "name": "Double Square Intersection"
+    },
+    {
+        "symbol": "interleave",
+        "name": "Triple Vertical Bar Binary Relation"
+    },
+    {
+        "symbol": "interleave.big",
+        "name": "Large Triple Vertical Bar Operator"
+    },
+    {
+        "symbol": "interleave.struck",
+        "name": "Triple Vertical Bar With Horizontal Stroke"
+    },
+    {
+        "symbol": "interrobang",
+        "name": "Interrobang"
+    },
+    {
+        "symbol": "iota",
+        "name": "Greek Small Letter Iota"
+    },
+    {
+        "symbol": "join",
+        "name": "Join"
+    },
+    {
+        "symbol": "join.r",
+        "name": "Right Outer Join"
+    },
+    {
+        "symbol": "join.l",
+        "name": "Left Outer Join"
+    },
+    {
+        "symbol": "join.l.r",
+        "name": "Full Outer Join"
+    },
+    {
+        "symbol": "kai",
+        "name": "Greek Kai Symbol"
+    },
+    {
+        "symbol": "kappa",
+        "name": "Greek Small Letter Kappa"
+    },
+    {
+        "symbol": "kappa.alt",
+        "name": "Greek Kappa Symbol"
+    },
+    {
+        "symbol": "lambda",
+        "name": "Greek Small Letter Lamda"
+    },
+    {
+        "symbol": "laplace",
+        "name": "Increment"
+    },
+    {
+        "symbol": "lat",
+        "name": "Larger Than"
+    },
+    {
+        "symbol": "lat.eq",
+        "name": "Larger Than Or Equal To"
+    },
+    {
+        "symbol": "lira",
+        "name": "Turkish Lira Sign"
+    },
+    {
+        "symbol": "lozenge.stroked",
+        "name": "Lozenge"
+    },
+    {
+        "symbol": "lozenge.stroked.small",
+        "name": "White Small Lozenge"
+    },
+    {
+        "symbol": "lozenge.stroked.medium",
+        "name": "White Medium Lozenge"
+    },
+    {
+        "symbol": "lozenge.filled",
+        "name": "Black Lozenge"
+    },
+    {
+        "symbol": "lozenge.filled.small",
+        "name": "Black Small Lozenge"
+    },
+    {
+        "symbol": "lozenge.filled.medium",
+        "name": "Black Medium Lozenge"
+    },
+    {
+        "symbol": "lrm",
+        "name": "Left To Right Mark"
+    },
+    {
+        "symbol": "lt",
+        "name": "Less Than Sign"
+    },
+    {
+        "symbol": "lt.circle",
+        "name": "Circled Less Than"
+    },
+    {
+        "symbol": "lt.dot",
+        "name": "Less Than With Dot"
+    },
+    {
+        "symbol": "lt.approx",
+        "name": "Less Than Or Approximate"
+    },
+    {
+        "symbol": "lt.double",
+        "name": "Much Less Than"
+    },
+    {
+        "symbol": "lt.eq",
+        "name": "Less Than Or Equal To"
+    },
+    {
+        "symbol": "lt.eq.slant",
+        "name": "Less Than Or Slanted Equal To"
+    },
+    {
+        "symbol": "lt.eq.gt",
+        "name": "Less Than Equal To Or Greater Than"
+    },
+    {
+        "symbol": "lt.eq.not",
+        "name": "Neither Less Than Nor Equal To"
+    },
+    {
+        "symbol": "lt.equiv",
+        "name": "Less Than Over Equal To"
+    },
+    {
+        "symbol": "lt.gt",
+        "name": "Less Than Or Greater Than"
+    },
+    {
+        "symbol": "lt.gt.not",
+        "name": "Neither Less Than Nor Greater Than"
+    },
+    {
+        "symbol": "lt.neq",
+        "name": "Less Than And Single Line Not Equal To"
+    },
+    {
+        "symbol": "lt.napprox",
+        "name": "Less Than And Not Approximate"
+    },
+    {
+        "symbol": "lt.nequiv",
+        "name": "Less Than But Not Equal To"
+    },
+    {
+        "symbol": "lt.not",
+        "name": "Not Less Than"
+    },
+    {
+        "symbol": "lt.ntilde",
+        "name": "Less Than But Not Equivalent To"
+    },
+    {
+        "symbol": "lt.small",
+        "name": "Small Less Than Sign"
+    },
+    {
+        "symbol": "lt.tilde",
+        "name": "Less Than Or Equivalent To"
+    },
+    {
+        "symbol": "lt.tilde.not",
+        "name": "Neither Less Than Nor Equivalent To"
+    },
+    {
+        "symbol": "lt.tri",
+        "name": "Normal Subgroup Of"
+    },
+    {
+        "symbol": "lt.tri.eq",
+        "name": "Normal Subgroup Of Or Equal To"
+    },
+    {
+        "symbol": "lt.tri.eq.not",
+        "name": "Not Normal Subgroup Of Or Equal To"
+    },
+    {
+        "symbol": "lt.tri.not",
+        "name": "Not Normal Subgroup Of"
+    },
+    {
+        "symbol": "lt.triple",
+        "name": "Very Much Less Than"
+    },
+    {
+        "symbol": "lt.triple.nested",
+        "name": "Triple Nested Less Than"
+    },
+    {
+        "symbol": "macron",
+        "name": "Macron"
+    },
+    {
+        "symbol": "maltese",
+        "name": "Maltese Cross"
+    },
+    {
+        "symbol": "mapsto",
+        "name": "Rightwards Arrow From Bar"
+    },
+    {
+        "symbol": "mapsto.long",
+        "name": "Long Rightwards Arrow From Bar"
+    },
+    {
+        "symbol": "minus",
+        "name": "Minus Sign"
+    },
+    {
+        "symbol": "minus.circle",
+        "name": "Circled Minus"
+    },
+    {
+        "symbol": "minus.dot",
+        "name": "Dot Minus"
+    },
+    {
+        "symbol": "minus.plus",
+        "name": "Minus Or Plus Sign"
+    },
+    {
+        "symbol": "minus.square",
+        "name": "Squared Minus"
+    },
+    {
+        "symbol": "minus.tilde",
+        "name": "Minus Tilde"
+    },
+    {
+        "symbol": "minus.triangle",
+        "name": "Minus Sign In Triangle"
+    },
+    {
+        "symbol": "miny",
+        "name": "Miny"
+    },
+    {
+        "symbol": "models",
+        "name": "Models"
+    },
+    {
+        "symbol": "mu",
+        "name": "Greek Small Letter Mu"
+    },
+    {
+        "symbol": "multimap",
+        "name": "Multimap"
+    },
+    {
+        "symbol": "multimap.double",
+        "name": "Double Ended Multimap"
+    },
+    {
+        "symbol": "nabla",
+        "name": "Nabla"
+    },
+    {
+        "symbol": "natural",
+        "name": "Music Natural Sign"
+    },
+    {
+        "symbol": "natural.t",
+        "name": "Musical Symbol Natural Up"
+    },
+    {
+        "symbol": "natural.b",
+        "name": "Musical Symbol Natural Down"
+    },
+    {
+        "symbol": "not",
+        "name": "Not Sign"
+    },
+    {
+        "symbol": "note.up",
+        "name": "Beamed Ascending Musical Notes"
+    },
+    {
+        "symbol": "note.down",
+        "name": "Beamed Descending Musical Notes"
+    },
+    {
+        "symbol": "note.whole",
+        "name": "Musical Symbol Whole Note"
+    },
+    {
+        "symbol": "note.half",
+        "name": "Musical Symbol Half Note"
+    },
+    {
+        "symbol": "note.quarter",
+        "name": "Musical Symbol Quarter Note"
+    },
+    {
+        "symbol": "note.quarter.alt",
+        "name": "Quarter Note"
+    },
+    {
+        "symbol": "note.eighth",
+        "name": "Musical Symbol Eighth Note"
+    },
+    {
+        "symbol": "note.eighth.alt",
+        "name": "Eighth Note"
+    },
+    {
+        "symbol": "note.eighth.beamed",
+        "name": "Beamed Eighth Notes"
+    },
+    {
+        "symbol": "note.sixteenth",
+        "name": "Musical Symbol Sixteenth Note"
+    },
+    {
+        "symbol": "note.sixteenth.beamed",
+        "name": "Beamed Sixteenth Notes"
+    },
+    {
+        "symbol": "note.grace",
+        "name": "Musical Symbol Grace Note No Slash"
+    },
+    {
+        "symbol": "note.grace.slash",
+        "name": "Musical Symbol Grace Note Slash"
+    },
+    {
+        "symbol": "nothing",
+        "name": "Empty Set"
+    },
+    {
+        "symbol": "nothing.arrow.r",
+        "name": "Empty Set With Right Arrow Above"
+    },
+    {
+        "symbol": "nothing.arrow.l",
+        "name": "Empty Set With Left Arrow Above"
+    },
+    {
+        "symbol": "nothing.bar",
+        "name": "Empty Set With Overbar"
+    },
+    {
+        "symbol": "nothing.circle",
+        "name": "Empty Set With Small Circle Above"
+    },
+    {
+        "symbol": "nothing.rev",
+        "name": "Reversed Empty Set"
+    },
+    {
+        "symbol": "nu",
+        "name": "Greek Small Letter Nu"
+    },
+    {
+        "symbol": "numero",
+        "name": "Numero Sign"
+    },
+    {
+        "symbol": "omega",
+        "name": "Greek Small Letter Omega"
+    },
+    {
+        "symbol": "omicron",
+        "name": "Greek Small Letter Omicron"
+    },
+    {
+        "symbol": "oo",
+        "name": "Infinity"
+    },
+    {
+        "symbol": "or",
+        "name": "Logical Or"
+    },
+    {
+        "symbol": "or.big",
+        "name": "N Ary Logical Or"
+    },
+    {
+        "symbol": "or.curly",
+        "name": "Curly Logical Or"
+    },
+    {
+        "symbol": "or.dot",
+        "name": "Or With Dot Inside"
+    },
+    {
+        "symbol": "or.double",
+        "name": "Double Logical Or"
+    },
+    {
+        "symbol": "original",
+        "name": "Original Of"
+    },
+    {
+        "symbol": "parallel",
+        "name": "Parallel To"
+    },
+    {
+        "symbol": "parallel.struck",
+        "name": "Parallel With Horizontal Stroke"
+    },
+    {
+        "symbol": "parallel.circle",
+        "name": "Circled Parallel"
+    },
+    {
+        "symbol": "parallel.eq",
+        "name": "Equal And Parallel To"
+    },
+    {
+        "symbol": "parallel.equiv",
+        "name": "Triple Horizontal Bar With Double Vertical Stroke"
+    },
+    {
+        "symbol": "parallel.not",
+        "name": "Not Parallel To"
+    },
+    {
+        "symbol": "parallel.slanted.eq",
+        "name": "Equals Sign And Slanted Parallel"
+    },
+    {
+        "symbol": "parallel.slanted.eq.tilde",
+        "name": "Equals Sign And Slanted Parallel With Tilde Above"
+    },
+    {
+        "symbol": "parallel.slanted.equiv",
+        "name": "Identical To And Slanted Parallel"
+    },
+    {
+        "symbol": "parallel.tilde",
+        "name": "Parallel With Tilde Operator"
+    },
+    {
+        "symbol": "parallelogram.stroked",
+        "name": "White Parallelogram"
+    },
+    {
+        "symbol": "parallelogram.filled",
+        "name": "Black Parallelogram"
+    },
+    {
+        "symbol": "paren.l",
+        "name": "Left Parenthesis"
+    },
+    {
+        "symbol": "paren.l.double",
+        "name": "Left White Parenthesis"
+    },
+    {
+        "symbol": "paren.r",
+        "name": "Right Parenthesis"
+    },
+    {
+        "symbol": "paren.r.double",
+        "name": "Right White Parenthesis"
+    },
+    {
+        "symbol": "paren.t",
+        "name": "Top Parenthesis"
+    },
+    {
+        "symbol": "paren.b",
+        "name": "Bottom Parenthesis"
+    },
+    {
+        "symbol": "partial",
+        "name": "Partial Differential"
+    },
+    {
+        "symbol": "penta.stroked",
+        "name": "White Pentagon"
+    },
+    {
+        "symbol": "penta.filled",
+        "name": "Black Pentagon"
+    },
+    {
+        "symbol": "percent",
+        "name": "Percent Sign"
+    },
+    {
+        "symbol": "permille",
+        "name": "Per Mille Sign"
+    },
+    {
+        "symbol": "perp",
+        "name": "Perpendicular"
+    },
+    {
+        "symbol": "perp.circle",
+        "name": "Circled Perpendicular"
+    },
+    {
+        "symbol": "peso",
+        "name": "Peso Sign"
+    },
+    {
+        "symbol": "phi",
+        "name": "Greek Small Letter Phi"
+    },
+    {
+        "symbol": "phi.alt",
+        "name": "Greek Phi Symbol"
+    },
+    {
+        "symbol": "pi",
+        "name": "Greek Small Letter Pi"
+    },
+    {
+        "symbol": "pi.alt",
+        "name": "Greek Pi Symbol"
+    },
+    {
+        "symbol": "pilcrow",
+        "name": "Pilcrow Sign"
+    },
+    {
+        "symbol": "pilcrow.rev",
+        "name": "Reversed Pilcrow Sign"
+    },
+    {
+        "symbol": "planck",
+        "name": "Planck Constant"
+    },
+    {
+        "symbol": "planck.reduce",
+        "name": "Planck Constant Over Two Pi"
+    },
+    {
+        "symbol": "plus",
+        "name": "Plus Sign"
+    },
+    {
+        "symbol": "plus.circle",
+        "name": "Circled Plus"
+    },
+    {
+        "symbol": "plus.circle.arrow",
+        "name": "Right Arrow With Circled Plus"
+    },
+    {
+        "symbol": "plus.circle.big",
+        "name": "N Ary Circled Plus Operator"
+    },
+    {
+        "symbol": "plus.dot",
+        "name": "Dot Plus"
+    },
+    {
+        "symbol": "plus.double",
+        "name": "Double Plus"
+    },
+    {
+        "symbol": "plus.minus",
+        "name": "Plus Minus Sign"
+    },
+    {
+        "symbol": "plus.small",
+        "name": "Small Plus Sign"
+    },
+    {
+        "symbol": "plus.square",
+        "name": "Squared Plus"
+    },
+    {
+        "symbol": "plus.triangle",
+        "name": "Plus Sign In Triangle"
+    },
+    {
+        "symbol": "plus.triple",
+        "name": "Triple Plus"
+    },
+    {
+        "symbol": "pound",
+        "name": "Pound Sign"
+    },
+    {
+        "symbol": "prec",
+        "name": "Precedes"
+    },
+    {
+        "symbol": "prec.approx",
+        "name": "Precedes Above Almost Equal To"
+    },
+    {
+        "symbol": "prec.curly.eq",
+        "name": "Precedes Or Equal To"
+    },
+    {
+        "symbol": "prec.curly.eq.not",
+        "name": "Does Not Precede Or Equal"
+    },
+    {
+        "symbol": "prec.double",
+        "name": "Double Precedes"
+    },
+    {
+        "symbol": "prec.eq",
+        "name": "Precedes Above Single Line Equals Sign"
+    },
+    {
+        "symbol": "prec.equiv",
+        "name": "Precedes Above Equals Sign"
+    },
+    {
+        "symbol": "prec.napprox",
+        "name": "Precedes Above Not Almost Equal To"
+    },
+    {
+        "symbol": "prec.neq",
+        "name": "Precedes Above Single Line Not Equal To"
+    },
+    {
+        "symbol": "prec.nequiv",
+        "name": "Precedes Above Not Equal To"
+    },
+    {
+        "symbol": "prec.not",
+        "name": "Does Not Precede"
+    },
+    {
+        "symbol": "prec.ntilde",
+        "name": "Precedes But Not Equivalent To"
+    },
+    {
+        "symbol": "prec.tilde",
+        "name": "Precedes Or Equivalent To"
+    },
+    {
+        "symbol": "prime",
+        "name": "Prime"
+    },
+    {
+        "symbol": "prime.rev",
+        "name": "Reversed Prime"
+    },
+    {
+        "symbol": "prime.double",
+        "name": "Double Prime"
+    },
+    {
+        "symbol": "prime.double.rev",
+        "name": "Reversed Double Prime"
+    },
+    {
+        "symbol": "prime.triple",
+        "name": "Triple Prime"
+    },
+    {
+        "symbol": "prime.triple.rev",
+        "name": "Reversed Triple Prime"
+    },
+    {
+        "symbol": "prime.quad",
+        "name": "Quadruple Prime"
+    },
+    {
+        "symbol": "product",
+        "name": "N Ary Product"
+    },
+    {
+        "symbol": "product.co",
+        "name": "N Ary Coproduct"
+    },
+    {
+        "symbol": "prop",
+        "name": "Proportional To"
+    },
+    {
+        "symbol": "psi",
+        "name": "Greek Small Letter Psi"
+    },
+    {
+        "symbol": "qed",
+        "name": "End Of Proof"
+    },
+    {
+        "symbol": "quest",
+        "name": "Question Mark"
+    },
+    {
+        "symbol": "quest.double",
+        "name": "Double Question Mark"
+    },
+    {
+        "symbol": "quest.excl",
+        "name": "Question Exclamation Mark"
+    },
+    {
+        "symbol": "quest.inv",
+        "name": "Inverted Question Mark"
+    },
+    {
+        "symbol": "quote.double",
+        "name": "Quotation Mark"
+    },
+    {
+        "symbol": "quote.single",
+        "name": "Apostrophe"
+    },
+    {
+        "symbol": "quote.l.double",
+        "name": "Left Double Quotation Mark"
+    },
+    {
+        "symbol": "quote.l.single",
+        "name": "Left Single Quotation Mark"
+    },
+    {
+        "symbol": "quote.r.double",
+        "name": "Right Double Quotation Mark"
+    },
+    {
+        "symbol": "quote.r.single",
+        "name": "Right Single Quotation Mark"
+    },
+    {
+        "symbol": "quote.angle.l.double",
+        "name": "Left Pointing Double Angle Quotation Mark"
+    },
+    {
+        "symbol": "quote.angle.l.single",
+        "name": "Single Left Pointing Angle Quotation Mark"
+    },
+    {
+        "symbol": "quote.angle.r.double",
+        "name": "Right Pointing Double Angle Quotation Mark"
+    },
+    {
+        "symbol": "quote.angle.r.single",
+        "name": "Single Right Pointing Angle Quotation Mark"
+    },
+    {
+        "symbol": "quote.high.double",
+        "name": "Double High Reversed 9 Quotation Mark"
+    },
+    {
+        "symbol": "quote.high.single",
+        "name": "Single High Reversed 9 Quotation Mark"
+    },
+    {
+        "symbol": "quote.low.double",
+        "name": "Double Low 9 Quotation Mark"
+    },
+    {
+        "symbol": "quote.low.single",
+        "name": "Single Low 9 Quotation Mark"
+    },
+    {
+        "symbol": "ratio",
+        "name": "Ratio"
+    },
+    {
+        "symbol": "rect.stroked.h",
+        "name": "White Rectangle"
+    },
+    {
+        "symbol": "rect.stroked.v",
+        "name": "White Vertical Rectangle"
+    },
+    {
+        "symbol": "rect.filled.h",
+        "name": "Black Rectangle"
+    },
+    {
+        "symbol": "rect.filled.v",
+        "name": "Black Vertical Rectangle"
+    },
+    {
+        "symbol": "refmark",
+        "name": "Reference Mark"
+    },
+    {
+        "symbol": "rest.whole",
+        "name": "Musical Symbol Whole Rest"
+    },
+    {
+        "symbol": "rest.multiple",
+        "name": "Musical Symbol Multi Rest"
+    },
+    {
+        "symbol": "rest.multiple.measure",
+        "name": "Musical Symbol Multiple Measure Rest"
+    },
+    {
+        "symbol": "rest.half",
+        "name": "Musical Symbol Half Rest"
+    },
+    {
+        "symbol": "rest.quarter",
+        "name": "Musical Symbol Quarter Rest"
+    },
+    {
+        "symbol": "rest.eighth",
+        "name": "Musical Symbol Eighth Rest"
+    },
+    {
+        "symbol": "rest.sixteenth",
+        "name": "Musical Symbol Sixteenth Rest"
+    },
+    {
+        "symbol": "rho",
+        "name": "Greek Small Letter Rho"
+    },
+    {
+        "symbol": "rho.alt",
+        "name": "Greek Rho Symbol"
+    },
+    {
+        "symbol": "rlm",
+        "name": "Right To Left Mark"
+    },
+    {
+        "symbol": "ruble",
+        "name": "Ruble Sign"
+    },
+    {
+        "symbol": "rupee",
+        "name": "Indian Rupee Sign"
+    },
+    {
+        "symbol": "sect",
+        "name": "Intersection"
+    },
+    {
+        "symbol": "sect.and",
+        "name": "Intersection With Logical And"
+    },
+    {
+        "symbol": "sect.big",
+        "name": "N Ary Intersection"
+    },
+    {
+        "symbol": "sect.dot",
+        "name": "Intersection With Dot"
+    },
+    {
+        "symbol": "sect.double",
+        "name": "Double Intersection"
+    },
+    {
+        "symbol": "sect.sq",
+        "name": "Square Cap"
+    },
+    {
+        "symbol": "sect.sq.big",
+        "name": "N Ary Square Intersection Operator"
+    },
+    {
+        "symbol": "sect.sq.double",
+        "name": "Double Square Intersection"
+    },
+    {
+        "symbol": "section",
+        "name": "Section Sign"
+    },
+    {
+        "symbol": "semi",
+        "name": "Semicolon"
+    },
+    {
+        "symbol": "semi.rev",
+        "name": "Reversed Semicolon"
+    },
+    {
+        "symbol": "sharp",
+        "name": "Music Sharp Sign"
+    },
+    {
+        "symbol": "sharp.t",
+        "name": "Musical Symbol Sharp Up"
+    },
+    {
+        "symbol": "sharp.b",
+        "name": "Musical Symbol Sharp Down"
+    },
+    {
+        "symbol": "sharp.double",
+        "name": "Musical Symbol Double Sharp"
+    },
+    {
+        "symbol": "sharp.quarter",
+        "name": "Musical Symbol Quarter Tone Sharp"
+    },
+    {
+        "symbol": "shell.l",
+        "name": "Light Left Tortoise Shell Bracket Ornament"
+    },
+    {
+        "symbol": "shell.l.double",
+        "name": "Mathematical Left White Tortoise Shell Bracket"
+    },
+    {
+        "symbol": "shell.r",
+        "name": "Light Right Tortoise Shell Bracket Ornament"
+    },
+    {
+        "symbol": "shell.r.double",
+        "name": "Mathematical Right White Tortoise Shell Bracket"
+    },
+    {
+        "symbol": "shell.t",
+        "name": "Top Tortoise Shell Bracket"
+    },
+    {
+        "symbol": "shell.b",
+        "name": "Bottom Tortoise Shell Bracket"
+    },
+    {
+        "symbol": "shin",
+        "name": "Hebrew Letter Shin"
+    },
+    {
+        "symbol": "sigma",
+        "name": "Greek Small Letter Sigma"
+    },
+    {
+        "symbol": "sigma.alt",
+        "name": "Greek Small Letter Final Sigma"
+    },
+    {
+        "symbol": "slash",
+        "name": "Solidus"
+    },
+    {
+        "symbol": "slash.double",
+        "name": "Double Solidus Operator"
+    },
+    {
+        "symbol": "slash.triple",
+        "name": "Triple Solidus Binary Relation"
+    },
+    {
+        "symbol": "slash.big",
+        "name": "Big Solidus"
+    },
+    {
+        "symbol": "smash",
+        "name": "Smash Product"
+    },
+    {
+        "symbol": "smt",
+        "name": "Smaller Than"
+    },
+    {
+        "symbol": "smt.eq",
+        "name": "Smaller Than Or Equal To"
+    },
+    {
+        "symbol": "space",
+        "name": "Space"
+    },
+    {
+        "symbol": "space.nobreak",
+        "name": "No Break Space"
+    },
+    {
+        "symbol": "space.nobreak.narrow",
+        "name": "Narrow No Break Space"
+    },
+    {
+        "symbol": "space.en",
+        "name": "En Space"
+    },
+    {
+        "symbol": "space.quad",
+        "name": "Em Space"
+    },
+    {
+        "symbol": "space.third",
+        "name": "Three Per Em Space"
+    },
+    {
+        "symbol": "space.quarter",
+        "name": "Four Per Em Space"
+    },
+    {
+        "symbol": "space.sixth",
+        "name": "Six Per Em Space"
+    },
+    {
+        "symbol": "space.med",
+        "name": "Medium Mathematical Space"
+    },
+    {
+        "symbol": "space.fig",
+        "name": "Figure Space"
+    },
+    {
+        "symbol": "space.punct",
+        "name": "Punctuation Space"
+    },
+    {
+        "symbol": "space.thin",
+        "name": "Thin Space"
+    },
+    {
+        "symbol": "space.hair",
+        "name": "Hair Space"
+    },
+    {
+        "symbol": "square.stroked",
+        "name": "White Square"
+    },
+    {
+        "symbol": "square.stroked.tiny",
+        "name": "White Small Square"
+    },
+    {
+        "symbol": "square.stroked.small",
+        "name": "White Medium Small Square"
+    },
+    {
+        "symbol": "square.stroked.medium",
+        "name": "White Medium Square"
+    },
+    {
+        "symbol": "square.stroked.big",
+        "name": "White Large Square"
+    },
+    {
+        "symbol": "square.stroked.dotted",
+        "name": "Dotted Square"
+    },
+    {
+        "symbol": "square.stroked.rounded",
+        "name": "White Square With Rounded Corners"
+    },
+    {
+        "symbol": "square.filled",
+        "name": "Black Square"
+    },
+    {
+        "symbol": "square.filled.tiny",
+        "name": "Black Small Square"
+    },
+    {
+        "symbol": "square.filled.small",
+        "name": "Black Medium Small Square"
+    },
+    {
+        "symbol": "square.filled.medium",
+        "name": "Black Medium Square"
+    },
+    {
+        "symbol": "square.filled.big",
+        "name": "Black Large Square"
+    },
+    {
+        "symbol": "star.op",
+        "name": "Star Operator"
+    },
+    {
+        "symbol": "star.stroked",
+        "name": "White Star"
+    },
+    {
+        "symbol": "star.filled",
+        "name": "Black Star"
+    },
+    {
+        "symbol": "subset",
+        "name": "Subset Of"
+    },
+    {
+        "symbol": "subset.dot",
+        "name": "Subset With Dot"
+    },
+    {
+        "symbol": "subset.double",
+        "name": "Double Subset"
+    },
+    {
+        "symbol": "subset.eq",
+        "name": "Subset Of Or Equal To"
+    },
+    {
+        "symbol": "subset.eq.not",
+        "name": "Neither A Subset Of Nor Equal To"
+    },
+    {
+        "symbol": "subset.eq.sq",
+        "name": "Square Image Of Or Equal To"
+    },
+    {
+        "symbol": "subset.eq.sq.not",
+        "name": "Not Square Image Of Or Equal To"
+    },
+    {
+        "symbol": "subset.neq",
+        "name": "Subset Of With Not Equal To"
+    },
+    {
+        "symbol": "subset.not",
+        "name": "Not A Subset Of"
+    },
+    {
+        "symbol": "subset.sq",
+        "name": "Square Image Of"
+    },
+    {
+        "symbol": "subset.sq.neq",
+        "name": "Square Image Of Or Not Equal To"
+    },
+    {
+        "symbol": "succ",
+        "name": "Succeeds"
+    },
+    {
+        "symbol": "succ.approx",
+        "name": "Succeeds Above Almost Equal To"
+    },
+    {
+        "symbol": "succ.curly.eq",
+        "name": "Succeeds Or Equal To"
+    },
+    {
+        "symbol": "succ.curly.eq.not",
+        "name": "Does Not Succeed Or Equal"
+    },
+    {
+        "symbol": "succ.double",
+        "name": "Double Succeeds"
+    },
+    {
+        "symbol": "succ.eq",
+        "name": "Succeeds Above Single Line Equals Sign"
+    },
+    {
+        "symbol": "succ.equiv",
+        "name": "Succeeds Above Equals Sign"
+    },
+    {
+        "symbol": "succ.napprox",
+        "name": "Succeeds Above Not Almost Equal To"
+    },
+    {
+        "symbol": "succ.neq",
+        "name": "Succeeds Above Single Line Not Equal To"
+    },
+    {
+        "symbol": "succ.nequiv",
+        "name": "Succeeds Above Not Equal To"
+    },
+    {
+        "symbol": "succ.not",
+        "name": "Does Not Succeed"
+    },
+    {
+        "symbol": "succ.ntilde",
+        "name": "Succeeds But Not Equivalent To"
+    },
+    {
+        "symbol": "succ.tilde",
+        "name": "Succeeds Or Equivalent To"
+    },
+    {
+        "symbol": "suit.club.filled",
+        "name": "Black Club Suit"
+    },
+    {
+        "symbol": "suit.club.stroked",
+        "name": "White Club Suit"
+    },
+    {
+        "symbol": "suit.diamond.filled",
+        "name": "Black Diamond Suit"
+    },
+    {
+        "symbol": "suit.diamond.stroked",
+        "name": "White Diamond Suit"
+    },
+    {
+        "symbol": "suit.heart.filled",
+        "name": "Black Heart Suit"
+    },
+    {
+        "symbol": "suit.heart.stroked",
+        "name": "White Heart Suit"
+    },
+    {
+        "symbol": "suit.spade.filled",
+        "name": "Black Spade Suit"
+    },
+    {
+        "symbol": "suit.spade.stroked",
+        "name": "White Spade Suit"
+    },
+    {
+        "symbol": "sum",
+        "name": "N Ary Summation"
+    },
+    {
+        "symbol": "sum.integral",
+        "name": "Summation With Integral"
+    },
+    {
+        "symbol": "supset",
+        "name": "Superset Of"
+    },
+    {
+        "symbol": "supset.dot",
+        "name": "Superset With Dot"
+    },
+    {
+        "symbol": "supset.double",
+        "name": "Double Superset"
+    },
+    {
+        "symbol": "supset.eq",
+        "name": "Superset Of Or Equal To"
+    },
+    {
+        "symbol": "supset.eq.not",
+        "name": "Neither A Superset Of Nor Equal To"
+    },
+    {
+        "symbol": "supset.eq.sq",
+        "name": "Square Original Of Or Equal To"
+    },
+    {
+        "symbol": "supset.eq.sq.not",
+        "name": "Not Square Original Of Or Equal To"
+    },
+    {
+        "symbol": "supset.neq",
+        "name": "Superset Of With Not Equal To"
+    },
+    {
+        "symbol": "supset.not",
+        "name": "Not A Superset Of"
+    },
+    {
+        "symbol": "supset.sq",
+        "name": "Square Original Of"
+    },
+    {
+        "symbol": "supset.sq.neq",
+        "name": "Square Original Of Or Not Equal To"
+    },
+    {
+        "symbol": "tack.r",
+        "name": "Right Tack"
+    },
+    {
+        "symbol": "tack.r.not",
+        "name": "Does Not Prove"
+    },
+    {
+        "symbol": "tack.r.long",
+        "name": "Long Right Tack"
+    },
+    {
+        "symbol": "tack.r.short",
+        "name": "Assertion"
+    },
+    {
+        "symbol": "tack.r.double",
+        "name": "True"
+    },
+    {
+        "symbol": "tack.r.double.not",
+        "name": "Not True"
+    },
+    {
+        "symbol": "tack.l",
+        "name": "Left Tack"
+    },
+    {
+        "symbol": "tack.l.long",
+        "name": "Long Left Tack"
+    },
+    {
+        "symbol": "tack.l.short",
+        "name": "Short Left Tack"
+    },
+    {
+        "symbol": "tack.l.double",
+        "name": "Vertical Bar Double Left Turnstile"
+    },
+    {
+        "symbol": "tack.t",
+        "name": "Up Tack"
+    },
+    {
+        "symbol": "tack.t.big",
+        "name": "Large Up Tack"
+    },
+    {
+        "symbol": "tack.t.double",
+        "name": "Double Up Tack"
+    },
+    {
+        "symbol": "tack.t.short",
+        "name": "Short Up Tack"
+    },
+    {
+        "symbol": "tack.b",
+        "name": "Down Tack"
+    },
+    {
+        "symbol": "tack.b.big",
+        "name": "Large Down Tack"
+    },
+    {
+        "symbol": "tack.b.double",
+        "name": "Double Down Tack"
+    },
+    {
+        "symbol": "tack.b.short",
+        "name": "Short Down Tack"
+    },
+    {
+        "symbol": "tack.l.r",
+        "name": "Left And Right Tack"
+    },
+    {
+        "symbol": "tau",
+        "name": "Greek Small Letter Tau"
+    },
+    {
+        "symbol": "therefore",
+        "name": "Therefore"
+    },
+    {
+        "symbol": "theta",
+        "name": "Greek Small Letter Theta"
+    },
+    {
+        "symbol": "theta.alt",
+        "name": "Greek Theta Symbol"
+    },
+    {
+        "symbol": "tilde.op",
+        "name": "Tilde Operator"
+    },
+    {
+        "symbol": "tilde.basic",
+        "name": "Tilde"
+    },
+    {
+        "symbol": "tilde.dot",
+        "name": "Tilde Operator With Dot Above"
+    },
+    {
+        "symbol": "tilde.eq",
+        "name": "Asymptotically Equal To"
+    },
+    {
+        "symbol": "tilde.eq.not",
+        "name": "Not Asymptotically Equal To"
+    },
+    {
+        "symbol": "tilde.eq.rev",
+        "name": "Reversed Tilde Equals"
+    },
+    {
+        "symbol": "tilde.equiv",
+        "name": "Approximately Equal To"
+    },
+    {
+        "symbol": "tilde.equiv.not",
+        "name": "Neither Approximately Nor Actually Equal To"
+    },
+    {
+        "symbol": "tilde.nequiv",
+        "name": "Approximately But Not Actually Equal To"
+    },
+    {
+        "symbol": "tilde.not",
+        "name": "Not Tilde"
+    },
+    {
+        "symbol": "tilde.rev",
+        "name": "Reversed Tilde"
+    },
+    {
+        "symbol": "tilde.rev.equiv",
+        "name": "All Equal To"
+    },
+    {
+        "symbol": "tilde.triple",
+        "name": "Triple Tilde"
+    },
+    {
+        "symbol": "times",
+        "name": "Multiplication Sign"
+    },
+    {
+        "symbol": "times.big",
+        "name": "N Ary Times Operator"
+    },
+    {
+        "symbol": "times.circle",
+        "name": "Circled Times"
+    },
+    {
+        "symbol": "times.circle.big",
+        "name": "N Ary Circled Times Operator"
+    },
+    {
+        "symbol": "times.div",
+        "name": "Division Times"
+    },
+    {
+        "symbol": "times.three.l",
+        "name": "Left Semidirect Product"
+    },
+    {
+        "symbol": "times.three.r",
+        "name": "Right Semidirect Product"
+    },
+    {
+        "symbol": "times.l",
+        "name": "Left Normal Factor Semidirect Product"
+    },
+    {
+        "symbol": "times.r",
+        "name": "Right Normal Factor Semidirect Product"
+    },
+    {
+        "symbol": "times.square",
+        "name": "Squared Times"
+    },
+    {
+        "symbol": "times.triangle",
+        "name": "Multiplication Sign In Triangle"
+    },
+    {
+        "symbol": "tiny",
+        "name": "Tiny"
+    },
+    {
+        "symbol": "top",
+        "name": "Down Tack"
+    },
+    {
+        "symbol": "trademark",
+        "name": "Trade Mark Sign"
+    },
+    {
+        "symbol": "trademark.registered",
+        "name": "Registered Sign"
+    },
+    {
+        "symbol": "trademark.service",
+        "name": "Service Mark"
+    },
+    {
+        "symbol": "triangle.stroked.t",
+        "name": "White Up Pointing Triangle"
+    },
+    {
+        "symbol": "triangle.stroked.b",
+        "name": "White Down Pointing Triangle"
+    },
+    {
+        "symbol": "triangle.stroked.r",
+        "name": "White Right Pointing Triangle"
+    },
+    {
+        "symbol": "triangle.stroked.l",
+        "name": "White Left Pointing Triangle"
+    },
+    {
+        "symbol": "triangle.stroked.bl",
+        "name": "Lower Left Triangle"
+    },
+    {
+        "symbol": "triangle.stroked.br",
+        "name": "Lower Right Triangle"
+    },
+    {
+        "symbol": "triangle.stroked.tl",
+        "name": "Upper Left Triangle"
+    },
+    {
+        "symbol": "triangle.stroked.tr",
+        "name": "Upper Right Triangle"
+    },
+    {
+        "symbol": "triangle.stroked.small.t",
+        "name": "White Up Pointing Small Triangle"
+    },
+    {
+        "symbol": "triangle.stroked.small.b",
+        "name": "White Down Pointing Small Triangle"
+    },
+    {
+        "symbol": "triangle.stroked.small.r",
+        "name": "White Right Pointing Small Triangle"
+    },
+    {
+        "symbol": "triangle.stroked.small.l",
+        "name": "White Left Pointing Small Triangle"
+    },
+    {
+        "symbol": "triangle.stroked.rounded",
+        "name": "Triangle With Rounded Corners"
+    },
+    {
+        "symbol": "triangle.stroked.nested",
+        "name": "White Triangle Containing Small White Triangle"
+    },
+    {
+        "symbol": "triangle.stroked.dot",
+        "name": "White Up Pointing Triangle With Dot"
+    },
+    {
+        "symbol": "triangle.filled.t",
+        "name": "Black Up Pointing Triangle"
+    },
+    {
+        "symbol": "triangle.filled.b",
+        "name": "Black Down Pointing Triangle"
+    },
+    {
+        "symbol": "triangle.filled.r",
+        "name": "Black Right Pointing Triangle"
+    },
+    {
+        "symbol": "triangle.filled.l",
+        "name": "Black Left Pointing Triangle"
+    },
+    {
+        "symbol": "triangle.filled.bl",
+        "name": "Black Lower Left Triangle"
+    },
+    {
+        "symbol": "triangle.filled.br",
+        "name": "Black Lower Right Triangle"
+    },
+    {
+        "symbol": "triangle.filled.tl",
+        "name": "Black Upper Left Triangle"
+    },
+    {
+        "symbol": "triangle.filled.tr",
+        "name": "Black Upper Right Triangle"
+    },
+    {
+        "symbol": "triangle.filled.small.t",
+        "name": "Black Up Pointing Small Triangle"
+    },
+    {
+        "symbol": "triangle.filled.small.b",
+        "name": "Black Down Pointing Small Triangle"
+    },
+    {
+        "symbol": "triangle.filled.small.r",
+        "name": "Black Right Pointing Small Triangle"
+    },
+    {
+        "symbol": "triangle.filled.small.l",
+        "name": "Black Left Pointing Small Triangle"
+    },
+    {
+        "symbol": "union",
+        "name": "Union"
+    },
+    {
+        "symbol": "union.arrow",
+        "name": "Multiset"
+    },
+    {
+        "symbol": "union.big",
+        "name": "N Ary Union"
+    },
+    {
+        "symbol": "union.dot",
+        "name": "Multiset Multiplication"
+    },
+    {
+        "symbol": "union.dot.big",
+        "name": "N Ary Union Operator With Dot"
+    },
+    {
+        "symbol": "union.double",
+        "name": "Double Union"
+    },
+    {
+        "symbol": "union.minus",
+        "name": "Union With Minus Sign"
+    },
+    {
+        "symbol": "union.or",
+        "name": "Union With Logical Or"
+    },
+    {
+        "symbol": "union.plus",
+        "name": "Multiset Union"
+    },
+    {
+        "symbol": "union.plus.big",
+        "name": "N Ary Union Operator With Plus"
+    },
+    {
+        "symbol": "union.sq",
+        "name": "Square Cup"
+    },
+    {
+        "symbol": "union.sq.big",
+        "name": "N Ary Square Union Operator"
+    },
+    {
+        "symbol": "union.sq.double",
+        "name": "Double Square Union"
+    },
+    {
+        "symbol": "upsilon",
+        "name": "Greek Small Letter Upsilon"
+    },
+    {
+        "symbol": "without",
+        "name": "Set Minus"
+    },
+    {
+        "symbol": "wj",
+        "name": "Word Joiner"
+    },
+    {
+        "symbol": "won",
+        "name": "Won Sign"
+    },
+    {
+        "symbol": "wreath",
+        "name": "Wreath Product"
+    },
+    {
+        "symbol": "xi",
+        "name": "Greek Small Letter Xi"
+    },
+    {
+        "symbol": "xor",
+        "name": "Circled Plus"
+    },
+    {
+        "symbol": "xor.big",
+        "name": "N Ary Circled Plus Operator"
+    },
+    {
+        "symbol": "yen",
+        "name": "Yen Sign"
+    },
+    {
+        "symbol": "zeta",
+        "name": "Greek Small Letter Zeta"
+    },
+    {
+        "symbol": "zwj",
+        "name": "Zero Width Joiner"
+    },
+    {
+        "symbol": "zwnj",
+        "name": "Zero Width Non Joiner"
+    },
+    {
+        "symbol": "zws",
+        "name": "Zero Width Space"
+    }
+]
